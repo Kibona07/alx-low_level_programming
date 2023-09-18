@@ -15,6 +15,6 @@ for (i = 0 ; str[i] != '\0' ; i++)
 n = (count - 1) / 2;
 for (i = n + 1 ; str[i] != '\0' ; i++)
 _putchar(str[i]);
-_putchar('\0');
+_putchar('\n');
 
 }
