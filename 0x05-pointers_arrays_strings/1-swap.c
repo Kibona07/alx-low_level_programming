@@ -3,8 +3,8 @@
 /**
  * swap_int - swap the value of two integers.
  *
- * @a: first parameter.
- * @b: second parameter.
+ * @i: first parameter.
+ * @j: second parameter.
  *
  */
 
